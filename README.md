@@ -1,1 +1,1 @@
-# interactiveCounter
+# The Interactive Counter in JavaScript
