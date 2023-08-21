@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #1d3557;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 70px;
+}
+
+.counter-number {
+    font-weight: 700;
+    font-size: 120px;
+}
+
+button {
+    border: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-size: 34px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 1rem;
+}
